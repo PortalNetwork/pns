@@ -20,12 +20,12 @@ The internet HTTP protocol is using the URL below:
 
 Example:
 ```
-https://www.portal.qkc/path
+https://www.portal.perl/path
 ```
 
 #### Spec
 - http: The PNS and protocol will be passed separately when the service requests.
-- www.portal.qkc: The content of the PNS is used when user requests to the browser.
+- www.portal.perl: The content of the PNS is used when user requests to the browser.
 - path: The path is not processed at the DNS level, the same as PNS, if there is a path, it is handled by other way or method.
 
 ## Resolving Names
