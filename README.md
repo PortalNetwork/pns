@@ -20,7 +20,7 @@ PNS is the Perlin Name Service, a distributed, open, and extensible naming syste
 -  [Integration](./docs/INTEGRATION.md)
 
 ## 📝 Guideline
-- [Smart Contract Testing](./qcns/README.md)
+- [Smart Contract Testing](./pns/README.md)
 - [Smart Contract Design Principle](./docs/SMART_CONTRACT_DESIGN_PRINCIPLE.md)
 
 ## 🗃 Changelog
