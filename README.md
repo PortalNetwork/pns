@@ -2,6 +2,9 @@
 
 > 📖🔍 Documents of the Perlin Name Service.
 
+## 💡 What is Perlin?
+Perlin is a decentralized, trustless and practical infrastructure blockchain which supports Dapps running and cloud computing, utilizes computational power in smart devices to facilitate cloud computing, make it accessible, economical and applicable to them.
+
 ## 💡 What is BNS?
 BNS – or blockchain name system – is the protocol on the internet that turns human-comprehensible decentralized website names such as ‘website.perl’ or ‘mywebsite.eth’ into addresses understandable by decentralized network machines.
 
