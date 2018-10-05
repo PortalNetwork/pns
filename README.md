@@ -1,4 +1,4 @@
-![Perlin Name Service](./assets/cover.)
+![Perlin Name Service](./assets/cover.jpg)
 
 > 📖🔍 Documents of the Perlin Name Service.
 
